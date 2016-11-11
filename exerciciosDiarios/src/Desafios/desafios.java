@@ -36,7 +36,7 @@ public class desafios {
 	 * 	  sendo estes apresentados no inicio do programa
 	 * 2) o utilizador escolher um deles recorrendo a uma listagem numerada desses utilizadores no ecrã representada por números.
 	 * 3) se o utilizador não escolher um numero válido, o progama volta a perguntar. O mesmo acontece errando na palavra passe, avisando o utilizador
-	 * 3) quando o utilizador introduzir uma palavra passe correta, o programa diz bem vindo seguido do username escolhido
+	 * 4) quando o utilizador introduzir uma palavra passe correta, o programa diz bem vindo seguido do username escolhido
 	 */
 	
 	public void exercicio1() {
