@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class desafios {
 	
 	public desafios() {
-		exercicio3();
+		exercicio1();
 	}
 	
 	/* Este exercicio visa obter a capacidade do formando de:
@@ -52,12 +52,12 @@ public class desafios {
 		//array de strings (3 users com 'username' e 'password' cada
 		String [][] users = new String [3][2];
 		//atribuir os nomes e passwords a cada um
-		users[0][0]="username1";
-		users[0][1]="password1";
-		users[1][0]="username2";
-		users[1][1]="password2";
-		users[2][0]="username3";
-		users[2][1]="password3";
+		users[0][0]="knight";
+		users[0][1]="darknight";
+		users[1][0]="master";
+		users[1][1]="darkmaster";
+		users[2][0]="dragon";
+		users[2][1]="dragonslayer";
 		
 		//listar as opcoes, de uma forma dinamica
 		for (int i=0;i<users.length;i++) {
